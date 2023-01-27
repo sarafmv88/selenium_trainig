@@ -1,0 +1,18 @@
+TestNG
+
+1.Annotations
+-Configuration Annotation
+-Prioroty Annotation
+-Enabled Attribute(enabled=true)&(enabled=fase)
+-invocaton count(to execute single test case for mno of times)(invocationCount=5)
+-
+-Depends on methods
+--------------------
+
+
+Groups
+----------
+Groups attributes
+(groups={regression})
+-
+-
